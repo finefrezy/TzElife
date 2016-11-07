@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/page_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    </LinearLayout>
+
+
+</LinearLayout><!--- mdpi：320x480  60
+hdpi：480x800、480x854  3-4.5  90
+xhdpi：至少960*720
+
+xxhdpi：1280×720
+android:clipChildren="false"
+-->
